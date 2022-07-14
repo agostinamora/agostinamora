@@ -1,7 +1,7 @@
 Hi 👋 My name is Agostina Mora
 ==============================
 
-Front-end developer && UX/UI Designer
+Frontend developer && UX/UI Designer
 -------------------------------------
 
 I've spent my whole life, from a very young age, drawing, enjoying creating stories and colorful characters. As an adult, I mixed my passion for design with programming to make it my profession.
