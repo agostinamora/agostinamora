@@ -7,7 +7,7 @@ FrontEnd developer && UX/UI Designer
 I've spent my whole life, from a very young age, drawing, enjoying creating stories and colorful characters. As an adult, I mixed my passion for design with programming to make it my profession.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [Notion](http://agostinamora.notion.site/agostinamora/Hola-2e93c4278bf548f19b2ad5d01bf7e7a8)
+* 🖥️  See my portfolio at [-]
 * ✉️  You can contact me at [agostinamora97@gmail.com](mailto:agostinamora97@gmail.com)
 * ⚡  "I'm here to talk to you about the Avengers Initiative."
 
